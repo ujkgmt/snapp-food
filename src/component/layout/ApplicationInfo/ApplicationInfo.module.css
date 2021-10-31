@@ -1,0 +1,39 @@
+.app{
+background: #eff1f1a1;
+margin-top: 7rem;
+border-radius: 0 0  10rem 0;
+height: 30rem;
+}
+.app :first-child{
+    /* margin-top: 8rem; */
+    
+}
+.app img {
+    position: absolute;
+    right: 45rem;
+    bottom: -36rem ;
+    width: 29rem;
+}
+.info{
+    width: 39%;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+.number_input{
+background: #fff;
+border-radius: 1rem;
+width: 18.1rem;
+margin-top: 0;
+}
+.parent{
+    margin-top: 0;
+    height: 2rem;
+    padding: 0;
+}
+.number_input input{
+    border: none;
+}
+.number_input input:active{
+    border: none;
+}
+

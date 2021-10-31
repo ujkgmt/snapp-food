@@ -1,0 +1,12 @@
+.VendorRegister {
+  background: #eff1f1;
+  margin-top: 7rem;
+  border-radius: 0 0 10rem 0;
+}
+.VendorRegister :first-child {
+  margin-top: 8rem;
+}
+.storImg{
+
+  width: 24rem;
+}

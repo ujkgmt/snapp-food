@@ -1,0 +1,16 @@
+.list_span{
+    font-size: .64rem;
+    font-weight: bolder;
+    color: grey;
+    margin-left: .5rem;
+    margin-bottom:rem;
+}
+.list_image{
+    display: block;
+    width: 2.5rem; 
+    margin-bottom: 1rem;
+}
+.nav_shadow{
+    border-bottom: .1px solid rgba(128, 128, 128, 0.089);
+    box-shadow: rgba(128, 128, 128, 0.048) 10px 2px;
+}

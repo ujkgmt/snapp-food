@@ -1,0 +1,18 @@
+.search_box{
+    margin-right: 10rem;
+    border-radius: .7rem;
+    background-color: #f2f4f5;
+    padding: 0.6rem 0.8rem 0 11.5rem;
+}
+.search_box p {
+    color: rgba(128, 128, 128, 0.781);
+}
+
+.location{
+    font-size: .2rem 
+}
+.stor{
+    margin-right: 9rem; 
+    font-size: .9rem;
+    color: rgba(0, 0, 0, 0.76);
+}

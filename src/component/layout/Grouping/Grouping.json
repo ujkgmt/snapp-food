@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1",
+    "title": "ایرانی",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_irani_1.jpg"
+  },
+  {
+    "id": "g2",
+    "title": "فست فود",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_fastfood_1.jpg"
+  },
+  {
+    "id": "g3",
+    "title": "کباب",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_kebab_1.jpg"
+  },
+  {
+    "id": "g4",
+    "title": "پیتزا",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_pizza_1.jpg"
+  },
+  {
+    "id": "g5",
+    "title": "برگر",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_burger_1.jpg"
+  },
+  {
+    "id": "g6",
+    "title": "ساندویچ",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_sandwich_1.jpg"
+  },
+  {
+    "id": "g7",
+    "title": "سوخاری",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_sokhari_1.jpg"
+  },
+  {
+    "id": "g8",
+    "title": "پاستا",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_italy_1.jpg"
+  },
+  {
+    "id": "g9",
+    "title": "سالاد",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_salad_1.jpg"
+  },
+  {
+    "id": "g10",
+    "title": "دریایی",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_seafood_1.jpg"
+  },
+  {
+    "id": "g11",
+    "title": "بین الملل",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_asian_1.jpg"
+  },
+  {
+    "id": "g12",
+    "title": "گیلانی",
+    "imageUrl": "https://static.snapp-food.com/uploads/images/tags/website_image_gilani_1.jpg"
+  }
+]
