@@ -1,0 +1,101 @@
+{
+  "bgImageUrl": "https://static.snapp-food.com/uploads/images/vendor-cover-app-review/11/17.jpg",
+  "berandImage": "https://static.snapp-food.com/media/cache/vendor_logo/uploads/images/vendors/logos/5d6df84c446a5.png",
+  "کوپن ها": [
+    {
+      "title": "تخفیف %20",
+      "text": "مخصوص سفارش اول"
+    }
+  ],
+
+  "پر طرفدار ها": [
+    {
+      "id": "1",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/46/78/8/vendor/61536208ac752.jpeg",
+      "title": "شیک شکلات",
+      "Compounds": "",
+      "off": "۳۵",
+      "PreviousPrice": "۵۵,۰۰۰",
+      "NextPrice": "۳۵,۷۵۰"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/46/78/8/vendor/61616d3b07f4e.jpeg",
+      "title": "ساندویج رست بیف",
+      "Compounds": "۱۰۰ گرم گوشت گوساله ریش شده، قارچ، کاهو، پنیر پروسس، گوجه، خیارشور، نان باگت",
+      "off": "۳۵",
+      "PreviousPrice": "۹۷,۰۰۰",
+      "NextPrice": "۶۳,۰۵۰"
+    }
+  ],
+  "پیتزا ایتالیایی": [
+    {
+      "id": "3",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/46/78/8/product_image/zoodfood/5db2eedbde8c0.jpg",
+      "title": "پیتزا پپرونی ایتالیایی خانواده (تند)",
+      "Compounds": "خمیر ایتالیایی ۳۲ سانتیمتری، سس مخصوص، پپرونی، فلفل هالوپینو، میکس پنیر های مخصوص ایتالیایی",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۱۱۰,۰۰۰"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/46/78/8/product_image/zoodfood/5db2efbee3b6b.jpg",
+      "title": "پیتزا فور سیزن خانواده (ایتالیایی)",
+      "Compounds": "خمیر ایتالیایی ۳۲ سانتیمتری، ۱/۴ پیتزا پپرونی، ۱/۴ پیتزا چیکن، ۱/۴ پیتزا وجیتریانا، ۱/۴ پیتزا استیک",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۱۲۹,۰۰۰"
+    }
+  ],
+  "پیتزا آمریکایی": [
+    {
+      "id": "5",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/46/78/8/product_image/zoodfood/5dd65283c9f39.jpg",
+      "title": "پیتزا پپرونی امریکایی (نرمال)",
+      "Compounds": "خمیر آمریکایی ۲۳ سانتیمتری، سس مخصوص، پپرونی، فلفل هالوپینو، میکس پنیر های مخصوص ایتالیایی",
+      "off": "۱۰",
+      "PreviousPrice": "۱۲۹,۰۰۰",
+      "NextPrice": " ۱۱۶,۱۰۰ "
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/46/78/8/product_image/zoodfood/5db2eedcbc984.jpg",
+      "title": "پیتزا پپرونی آمریکایی (تند)",
+      "Compounds": "خمیر آمریکایی ۲۳ سانتیمتری، سس مخصوص، پپرونی، میکس پنیر مخصوص ایتالیایی، فلفل هالوپینو",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۹۵,۰۰۰ "
+    }
+  ],
+  "استیک": [
+    {
+        "id": "7",
+        "imageUrl":"https://static.snapp-food.com/641x641/cdn/46/78/8/vendor/611a106c4808b.jpeg",
+        "title": "استیک مرغ گریل",
+        "Compounds": "۴۰۰ گرم سینه مرغ گریل شده، سبزیجات طعم دار شده، سس قارچ",
+        "off": "",
+        "PreviousPrice": "",
+        "NextPrice": " ۱۲۰,۰۰۰ "
+      }
+  ],
+  "برگر (۱۰۰% گوشت)": [
+    {
+        "id": "9",
+        "imageUrl":"https://static.snapp-food.com/641x641/cdn/46/78/8/vendor/60a0dffc6bf78.jpeg",
+        "title": "چوریتسو برگر",
+        "Compounds": "چوریتسو(گوشت شکاری ۹۰٪) ,برگر,پنیر,خیارشو,گوجه,کاهو,سس مخصوص,نان",
+        "off": "۱۰",
+        "PreviousPrice": "۱۱۰,۰۰۰",
+        "NextPrice": "۹۹,۰۰۰"
+      }, {
+        "id": "10",
+        "imageUrl":"https://static.snapp-food.com/641x641/cdn/46/78/8/vendor/600324fddd5f1.jpeg",
+        "title": "ماشروم برگر سینگل (۱۵۰ گرم)",
+        "Compounds": "برگر گوشت گوساله، قارچ، پنیر، گوجه، کاهو، خیارشور، سس مخصوص، نان",
+        "off": "۱۰",
+        "PreviousPrice": "۹۵,۰۰۰",
+        "NextPrice": "۸۵,۵۰۰ "
+      }
+  ]
+}

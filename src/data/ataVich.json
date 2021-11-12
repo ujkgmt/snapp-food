@@ -1,0 +1,190 @@
+{
+  "bgImageUrl": "https://static.snapp-food.com/uploads/images/vendor-cover-app-review/11/17.jpg",
+  "کوپن ها": [
+    {
+      "title": "تخفیف %20",
+      "text": "مخصوص سفارش اول"
+    }
+  ],
+
+  "پر طرفدار ها": [
+    {
+      "id": "4",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/60840beea55f3.jpeg",
+      "title": "عطا زینگر",
+      "Compounds": "ساندویچ فیله مرغ سوخاری شده با ۱۲۰ گرم ژامبون گوشت و قارچ و پنیر و یه سس خاص",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۷۹,۹۰۰"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606ac15d00ede.jpeg",
+      "title": " پیتزا مخصوص متوسط",
+      "Compounds": "یه پیتزا مخصوص سلیقه ایرانی با ژامبون، هات داگ، سینه مرغ، قارچ و پنیر موزارلا",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۸۷,۹۰۰ "
+    }
+  ],
+  "غول های خوشمزه": [
+    {
+      "id": "7",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/60c0b4c227689.jpeg",
+      "title": "مانستر",
+      "Compounds": "دوتا همبرگر دستی حرفه ای با پیاز کاراملی و پنیر موزارلا و یک سس خاص",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۹۹,۹۰۰ "
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/60c0b4d74a72f.jpeg",
+      "title": "مانستر پپر",
+      "Compounds": "دوتا همبرگر دستی حرفه ای با پپرونی و سیب زمینی سرخ شده و پنیر موزارلا و یک سس خاص",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۱۰۹,۹۰۰ "
+    }
+  ],
+  "عطا چیزها": [
+    {
+      "id": "10",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/608cd506c66d1.jpeg",
+      "title": "چیز کرانچ",
+      "Compounds": "۳۰۰ گرم کراکف حرفه ای، پپرونی ، پنیر گودا ، پنیر موزارلا  و  یه سس خاص",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۹۹,۹۰۰ "
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/608408376cb4f.jpeg",
+      "title": "عطا چیز چیکن",
+      "Compounds": "سینه مرغ مزه دار شده، سس چیلی ،پنیرموزارلا،سیب زمینی تکه ای تنوری ،قارچ و فلفل دلمه ای",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۹۹,۹۰۰ "
+    }
+  ],
+  "عطا پیتزاها": [
+    {
+      "id": "13",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606ac15d00ede.jpeg",
+      "title": " پیتزا مخصوص متوسط",
+      "Compounds": "یه پیتزا مخصوص سلیقه ایرانی با ژامبون، هات داگ، سینه مرغ، قارچ و پنیر موزارلا",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۸۷,۹۰۰ "
+    },
+    {
+      "id": "14",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606ac1a808235.jpeg",
+      "title": "پپرونی پیتزا بزرگ",
+      "Compounds": "یه پیتزای با حال با پپرونی و سس چیلی و پنیر موزارلا",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۱۳۶,۹۰۰ "
+    }
+  ],
+  "عطا برگرها": [
+    {
+      "id": "16",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606abe7e47245.jpeg",
+      "title": "همبرگر اکونومی",
+      "Compounds": "یه همبرگر ۱۴۰ گرمی با یه سس خاص",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۵۷,۹۰۰ "
+    },
+    {
+      "id": "17",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606abf3147d75.jpeg",
+      "title": "چیزبرگر (با سس قارچ)",
+      "Compounds": "یه برگر حرفه ای (۱۸۰گرمی) و پنیر گودا و سس قارچ",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۷۷,۹۰۰"
+    }
+  ],
+  "عطاویچ ها ": [
+    {
+      "id": "19",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606abf6457b5c.jpeg",
+      "title": "ساندویچ هات داگ کلاسیک",
+      "Compounds": "یه هات داگ تنوری حرفه ای با چیپس خلالی و سس خردل",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۴۶,۹۰۰"
+    },
+    {
+      "id": "20",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606abfdd98436.jpeg",
+      "title": "ساندویچ ژامبویچ سرد",
+      "Compounds": "۲۴۰ گرم ژامبون گوشت و مرغ ۹۰% و یه سس خاص",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": ""
+    }
+  ],
+  "عطا چیکن ها ": [
+    {
+      "id": "22",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606ac11e0405a.jpeg",
+      "title": "چیکن استریپس",
+      "Compounds": "سه تکه فیله مرغ سوخاری شده، سیب زمینی سرخ شده، نان بروچن",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۷۹,۹۰۰ "
+    },
+    {
+      "id": "23",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/608408a38dd19.jpeg",
+      "title": "زینگر",
+      "Compounds": "ساندویچ فیله مرغ سوخاری شده با پنیر گودا و یه سس خاص",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۵۹,۹۰۰ "
+    }
+  ],
+  "عطا پاستاها ": [
+    {
+      "id": "25",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606abc5e27cfb.jpeg",
+      "title": "چیزپاستا",
+      "Compounds": "یک پاستای متفاوت با روش طبخ متفاوت که در این شرایط با خیال راحت میتوانید سفارش دهید و خیالتان راحت باشه بعد از اینکه حرارت میبینه ...",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۶۶,۹۰۰ "
+    },
+    {
+      "id": "26",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/606abc4642cda.jpeg",
+      "title": "پنه بیف آلفردو (گوشت)",
+      "Compounds": "پاستا پنه ، پنیر پارمزان ، گوشت  ، قارچ و سس آلفردو",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۹۹,۹۰۰ "
+    }
+  ],
+  "نوشیدنی": [
+    {
+      "id": "28",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/608409d9829af.jpeg",
+      "title": "نوشابه قوطی کوکاکولا",
+      "Compounds": "نوشابه قوطی کوکاکولا",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": " ۸,۱۰۰ "
+    },
+    {
+      "id": "29",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/21/26/0/vendor/608409e356c37.jpeg",
+      "title": "نوشابه قوطی زیرو",
+      "Compounds": "نوشابه قوطی زیرو",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۸,۱۰۰"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "bgImageUrl": "https://static.snapp-food.com/uploads/images/vendor-cover-app-review/11/17.jpg",
+  "berandImage": "https://static.snapp-food.com/media/cache/vendor_logo/uploads/images/vendors/logos/5d6df84c446a5.png",
+
+  "سوخاری": [
+    {
+      "id": "1",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/67/35/8/vendor/608d0d36e7e3d.jpeg",
+      "title": "فیله استریپس(هفت تکه)",
+      "Compounds": "",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۱۲۸,۰۰۰"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/67/35/8/vendor/604656b7f2d83.jpeg",
+      "title": "مرغ سوخاری (دو تکه)",
+      "Compounds": "۲ تکه ران مرغ، سیب زمینی، سالاد کلم، نان، سس",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۵۷,۰۰۰"
+    }
+  ],
+  "نوشیدنی": [
+    {
+      "id": "3",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/67/35/8/product_image/zoodfood/6044d2753e963.jpg",
+      "title": "نوشابه شیشه ای",
+      "Compounds": "۲۵۰ میلی لیتر",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۶,۵۰۰"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://static.snapp-food.com/641x641/cdn/67/35/8/product_image/zoodfood/6044d2755942e.jpg",
+      "title": "نوشابه قوطی",
+      "Compounds": "۳۳۰ میلی لیتر",
+      "off": "",
+      "PreviousPrice": "",
+      "NextPrice": "۸,۱۰۰"
+    }
+  ]
+}
