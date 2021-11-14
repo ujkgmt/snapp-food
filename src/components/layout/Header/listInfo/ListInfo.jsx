@@ -5,7 +5,7 @@ import food from "./food-delivery.png"
 import order from "./order.png"
 const ListInfo = () => {
     return (
-        <Grid container spacing={2}  sx={{textAlign: "center"}}>
+        <Grid container spacing={2}  sx={{textAlign: "center" ,mb: "-5rem"}}>
             <Grid item xs={4}>
                 <img style={{ width: "25%" }} src={fast} alt="" /> <br />
                 <Typography variant="">در سریع ترین زمان ممکن</Typography>

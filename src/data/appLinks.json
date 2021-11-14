@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sibche",
+    "imageUrl": "https://www.delino.com/img/general/label-app-ios-sibche.png"
+  },
+  {
+    "id": "sibapp",
+    "imageUrl": "https://www.delino.com/img/general/label-app-ios-sibapp.png"
+  },
+  {
+    "id": "sibirani",
+    "imageUrl": "https://www.delino.com/img/general/label-app-ios-sibirani.png"
+  },
+  {
+    "id": "anardoni",
+    "imageUrl": "https://www.delino.com/img/general/label-app-ios-anardoni.png"
+  },
+  {
+    "id": "google Play",
+    "imageUrl": "https://www.delino.com/img/general/label-app-android.png"
+  },
+  {
+    "id": "android direct",
+    "imageUrl": "https://www.delino.com/img/general/label-app-android-direct.png"
+  },
+  {
+    "id": "bazaar",
+    "imageUrl": "https://www.delino.com/img/general/label-app-android-bazaar.png"
+  },
+  {
+    "id": "myket",
+    "imageUrl": "https://www.delino.com/img/general/label-app-android-myket.png"
+  }
+]
