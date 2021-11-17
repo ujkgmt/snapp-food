@@ -1,7 +1,7 @@
-import { Container, Grid, Typography } from '@mui/material';
+import {  Grid, Typography } from '@mui/material';
 import { makeStyles } from '@mui/styles';
-import socialData from "../../../data/SocialNetworkLinks.json"
-import SocialCard from './SocialCard';
+// import socialData from "../../../data/SocialNetworkLinks.json"
+// import SocialCard from './SocialCard';
 const useStyles = makeStyles({
     SocialNetworkLinks: {
         display: "flex",
@@ -16,7 +16,7 @@ const useStyles = makeStyles({
         backgroundColor: "rgb(39 48 54)",
         height: "14rem",
         marginTop: "2rem",
-        paddingTop: "5rem"
+        padding: "5rem"
     },
     listLink: {
         textDecoration: "none",
@@ -34,7 +34,7 @@ const useStyles = makeStyles({
 const Footer = () => {
     const classes = useStyles();
     return (
-        <Container className={classes.container}>
+        <div className={classes.container}>
             <Grid container spacing={5}>
                 <Grid xs={4}>
                     <Typography variant component="h2" color="coral" >فری فود</Typography>
@@ -92,7 +92,7 @@ const Footer = () => {
 
 
             </Grid>
-        </Container>
+        </div>
     );
 }
 

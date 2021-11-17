@@ -10,8 +10,8 @@ const HomePage = () => {
     return (
         <>
             <Header />
-            <div style={{ textAlign: "center", marginBottom: "3rem" }}>
-                <Typography variant="" component="h2">به راحتی آب خوردن
+            <div style={{ textAlign: "center", marginBottom: "3rem", marginRight: "40%" }}>
+                <Typography variant="" component="h2" sx={{ borderBottom: " 2px solid #f04123", width: "30%", pb: 2 }}>به راحتی آب خوردن
                 </Typography>
 
             </div>

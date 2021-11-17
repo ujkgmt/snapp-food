@@ -2,10 +2,11 @@ import { FormControl, InputLabel, MenuItem, Select, TextField } from "@mui/mater
 import { makeStyles } from "@mui/styles";
 import SearchIcon from '@mui/icons-material/Search';
 
+
 const SearchBox = () => {
     const useStyles = makeStyles({
         parent: {
-            backgroundColor: "#fff",
+            backgroundColor: "rgba(255, 255, 255, 0.89)",
             width: "50%",
             display: "flex",
             padding: ".8rem",
@@ -34,10 +35,13 @@ const SearchBox = () => {
 
     });
     const classes = useStyles();
+
+
+
     return (
         <div className={classes.parent} >
             < FormControl className={classes.selectBox}>
-                <InputLabel className={classes.label} id="demo-simple-select-label" >شهر</InputLabel>
+                <InputLabel style={{direction: "rtl"}} id="demo-simple-select-label" >شهر</InputLabel>
                 <Select
                     labelId="demo-simple-select-label"
                     id="demo-simple-select"
@@ -55,7 +59,7 @@ const SearchBox = () => {
                 </Select>
             </FormControl>
 
-            <TextField fullWidth className={classes.searchInput} label="نام رستوران یا غذای مورد نظر" />
+            <TextField fullWidth className={classes.searchInput} placeholder="نام رستوران یا غذای مورد نظر"  />
             <div className={classes.searchButton}>
 
                 <SearchIcon sx={{ color: "#fff" }} />
